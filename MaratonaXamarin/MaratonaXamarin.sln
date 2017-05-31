@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaratonaXamarin.AndroidApp", "MaratonaXamarin.AndroidApp\MaratonaXamarin.AndroidApp.csproj", "{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaratonaXamarin.Shared", "MaratonaXamarin.Shared\MaratonaXamarin.Shared.csproj", "{FD80D085-1DF8-4382-817A-232230C79F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480BD5F0-58AB-41B0-B6DF-3EAFA81BD70B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD80D085-1DF8-4382-817A-232230C79F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD80D085-1DF8-4382-817A-232230C79F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD80D085-1DF8-4382-817A-232230C79F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD80D085-1DF8-4382-817A-232230C79F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
