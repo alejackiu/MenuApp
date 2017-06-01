@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0C395A6E-EA9E-479F-9B53-5A833F1C4D46}</ProjectGuid>
+    <ProjectGuid>{45323716-DDD9-440A-888E-3206C748524F}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -99,7 +99,6 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SplashScreen.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -122,7 +121,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MenuApp\MenuApp.csproj">
-      <Project>{e533a0f0-2e51-459c-b2fc-6ad7d0d5f060}</Project>
+      <Project>{73aa28af-1b0d-439a-b494-5a69799aeeab}</Project>
       <Name>MenuApp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6129B315-3DAD-439F-9352-CF63A6F1023C}</ProjectGuid>
+    <ProjectGuid>{695D9D77-4616-4E77-8392-CAFEF8579DD3}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>MenuApp.iOS</RootNamespace>
@@ -135,7 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MenuApp\MenuApp.csproj">
-      <Project>{e533a0f0-2e51-459c-b2fc-6ad7d0d5f060}</Project>
+      <Project>{73aa28af-1b0d-439a-b494-5a69799aeeab}</Project>
       <Name>MenuApp</Name>
     </ProjectReference>
   </ItemGroup>
